@@ -40,7 +40,6 @@ class Student{
     void setAge(int a){
         age = a;
     }
-
 };
 
 int main(){
@@ -63,6 +62,4 @@ int main(){
     cout<<"s2 Roll Number : "<<s2->rollNumber<<endl;
     s2->setAge(30);
     cout<<"s2 new age : "<<s2->getAge();
-    
-
 }
