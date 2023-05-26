@@ -40,7 +40,7 @@ class Student{
 // Constructor. This constructor is called if there is no user defined constructor inside the
 // class.
 // Note : It does not take any argument
-
+// Note : Constructor is called only once that is during creation of the object.
 // PARAMETERIZED CONSTRUCTOR
 
 // Same as default constructor except it can take argument.
